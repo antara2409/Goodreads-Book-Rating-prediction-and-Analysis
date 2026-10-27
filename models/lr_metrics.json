@@ -1,0 +1,9 @@
+{
+    "Model": "Linear Regression",
+    "Test MAE": 0.1436,
+    "Test MSE": 0.0352,
+    "Test RMSE": 0.1877,
+    "Test R2 Score": 0.4248,
+    "CV RMSE": 0.2015,
+    "CV R2": 0.3801
+}

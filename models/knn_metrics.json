@@ -1,0 +1,13 @@
+{
+    "Model": "Tuned KNN Regressor",
+    "Parameters": {
+        "n_neighbors": 15,
+        "weights": "distance",
+        "p": 1
+    },
+    "Best CV MAE": 0.15958,
+    "Test MAE": 0.15198,
+    "Test MSE": 0.03949,
+    "Test RMSE": 0.19871,
+    "Test R2 Score": 0.35551
+}

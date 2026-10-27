@@ -1,0 +1,14 @@
+{
+    "Model": "Regularized Random Forest",
+    "Parameters": {
+        "n_estimators": 200,
+        "max_depth": 14,
+        "min_samples_leaf": 4,
+        "min_samples_split": 8
+    },
+    "Test MAE": 0.127,
+    "Test RMSE": 0.17,
+    "Test R2 Score": 0.5283,
+    "Training R2 Score": 0.8282,
+    "Validation CV R2": 0.4824
+}

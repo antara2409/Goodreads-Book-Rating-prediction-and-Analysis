@@ -1,0 +1,12 @@
+{
+    "Model": "Hyperparameter Tuned SVR",
+    "Parameters": {
+        "kernel": "rbf",
+        "C": 2,
+        "epsilon": 0.1,
+        "gamma": 0.05
+    },
+    "Test MAE": 0.1363,
+    "Test RMSE": 0.1823,
+    "Test R2 Score": 0.4574
+}
